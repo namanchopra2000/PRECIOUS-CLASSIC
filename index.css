@@ -1,0 +1,102 @@
+.container{
+margin-top: auto;
+}
+#allbody{
+ background-color: #ffdd67;   
+}
+.container-fluid{
+margin-top: auto;
+}
+#carouselExampleInterval{
+margin-top: 50px;
+}
+.offcanvas-body{
+    background-image: url("PRECIOUS\ CLASSIC\ \(4\).png");
+    background-size:300px;
+    background-repeat: no-repeat;
+    background-position:  center 295px ;
+}
+#contactbody{
+background-color: #ffdd67;
+}
+.foot{
+    color: #ffdd67;
+    height: auto;
+    background-color: black;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+    /* border:2px solid red; */
+}
+#contactus{
+    padding:20px;
+    background-color: black;
+    
+}
+#formenqury{
+    height: auto;
+    margin-top: 10px;
+}
+.form-check{
+    background-color: white;
+    height: 10PX;
+    color: black; 
+    border: 1PX solid black;
+
+}
+#YOURMESSAGE{
+    margin-top: 10PX;
+}
+#contactlist1{
+    list-style-type: none;
+    text-align: left;
+    
+}
+.card-title{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40PX;
+}
+.contactlist1forcontactpage{
+    text-align: left;
+    background-color: black;
+    font-size: large;
+    font-weight: bold;
+    list-style: none;
+    color:#ffffff;
+
+
+   
+    
+}
+#contactusline{
+    background-color: #ffffff;
+    width: auto;
+
+    
+}
+#indexpageaboutus{
+margin-top:60px;
+}
+#textparagraghofindexaboutuscontainer{
+    background-color: black;
+
+}
+.textparagraghofindexaboutus{
+font-weight: bold;
+font-size: 20px;
+color: #ffdd67;
+
+}
+#logistics{
+    margin-top: 30px;
+    background-color: black;
+    color:#ffdd67;
+    padding: 70px;
+}
+#homepageenquiry{
+    background-color: #ffdd67;
+color: black;
+}
